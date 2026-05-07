@@ -1,0 +1,51 @@
+product_id,product_name,category,price,stock_quantity
+1,Wireless Earbuds,Electronics,1499,145
+2,Bluetooth Speaker,Electronics,2499,291
+3,Smartphone Case,Electronics,399,230
+4,USB-C Hub,Electronics,1899,309
+5,Webcam HD,Electronics,2999,369
+6,Portable Charger,Electronics,999,425
+7,Keyboard Mechanical,Electronics,3499,112
+8,Mouse Wireless,Electronics,899,107
+9,LED Desk Lamp,Electronics,1299,109
+10,Smartwatch Band,Electronics,599,60
+11,Cotton T-Shirt,Clothing,499,332
+12,Denim Jeans,Clothing,1299,465
+13,Hoodie Pullover,Clothing,1599,215
+14,Formal Shirt,Clothing,999,337
+15,Track Pants,Clothing,799,369
+16,Sneakers,Clothing,2499,143
+17,Sunglasses,Clothing,699,274
+18,Leather Belt,Clothing,449,487
+19,Winter Jacket,Clothing,2999,318
+20,Cap Baseball,Clothing,299,93
+21,Bedsheet Set,Home,899,138
+22,Cushion Cover Pack,Home,599,256
+23,Wall Clock,Home,749,346
+24,Photo Frame Set,Home,499,150
+25,Scented Candle,Home,349,255
+26,Storage Box,Home,649,150
+27,Throw Blanket,Home,1199,361
+28,Table Runner,Home,449,24
+29,Flower Vase,Home,799,480
+30,Door Mat,Home,249,431
+31,Yoga Mat,Sports,699,258
+32,Resistance Bands,Sports,499,481
+33,Water Bottle Steel,Sports,599,167
+34,Jump Rope,Sports,299,366
+35,Dumbbells 5kg Pair,Sports,1499,299
+36,Sports Towel,Sports,249,100
+37,Running Armband,Sports,399,57
+38,Gym Gloves,Sports,349,246
+39,Fitness Tracker,Sports,1999,196
+40,Skipping Rope Pro,Sports,449,320
+41,Python Programming,Books,549,173
+42,Data Science Handbook,Books,699,347
+43,SQL Mastery,Books,499,237
+44,Business Analytics,Books,599,373
+45,Machine Learning Intro,Books,749,148
+46,Excel Advanced,Books,399,253
+47,Statistics Basics,Books,449,452
+48,Web Development,Books,649,174
+49,Project Management,Books,549,121
+50,Digital Marketing,Books,499,216
