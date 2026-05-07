@@ -5,7 +5,7 @@ This project analyzes sales, customer behavior, and product trends for **RetailP
 The analysis uses SQL on a SQL database containing one year of sales records (January to December 2025). The data includes 200 customers, 50 products, 1,000 orders, and 15 employees.
 
 > [!NOTE]
-> - To establish a realistic business scenario, AI assistance was used for developing the synthetic data scripts and refining SQL query comments for a better presentation. 
+> - To establish a realistic business scenario, AI assistance was used for developing the synthetic data scripts, generating ER diagram and refining SQL query comments for a better presentation. 
 > - All analytical logic, SQL query design, insights interpretation and business findings were independently conducted.
 
 ---
