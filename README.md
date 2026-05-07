@@ -41,7 +41,8 @@ employees ──┘              │
 | `order_items` | ~2,300 | Individual line items per order |
 | `payments` | 1,000 | Payment records linked to orders |
 
-For the full ER diagram, refer to this [image](assets/er_diagram.png).
+### Entity Relationship Diagram
+![RetailPulse ER Diagram](assets/er_diagram.png)
 
 ---
 
